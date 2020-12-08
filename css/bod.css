@@ -1,0 +1,74 @@
+.officers {
+    float: left;
+    width: 100%;
+}
+
+.officers div {
+    float: left;
+    width: 31.6%;
+    margin: 0 10px 15px;
+}
+
+.officers div .img {
+    background-image: url(/Website/Images/BOD/Peter-Griffin.png);
+     width: 320px;background-size: cover;background-repeat: no-repeat;background-position: center;height: 317px;
+border: 3px solid #fdc018;border-radius: 50%;margin: 0 auto;float: none;}
+
+.officers div .data p {margin: 0;color: #fff;padding: 0 20px; word-break: break-all;}
+.officers div .img:hover .email {display: flex !important;margin: 0;}
+.officers div .email {cursor: pointer;background-color: rgba(0, 0, 0, 0.8);width: 100%;height: 100%;border-radius: 50%;display: none;justify-content: center;align-items: center;}
+.officers div .data {width: 100%;margin: 0;}
+.officers div .name {text-align: center;width: 100%;padding: 20px 0 0;}
+.officers div .name p {font-size: 25px;font-weight: 600;margin: 0;}
+.officers div .img.frank {background-image: url(/Website/Images/BOD/Lois-Griffin.png);
+background-repeat: no-repeat;}
+
+.officers div .img.ane {background-image: url(/Website/Images/BOD/Meg-Griffin.png);
+background-repeat: no-repeat;}
+	
+.officers div .img.lg {background-image: url(/Website/Images/BOD/Chris-Griffin.png);
+background-repeat: no-repeat;}
+
+.officers div .img.dorotea {background-image: url(/Website/Images/BOD/Brian-Griffin.png);
+background-repeat: no-repeat;}
+	
+.officers div .img.chery {background-image: url(/Website/Images/BOD/Stewie-Griffin.png);
+background-repeat: no-repeat;}
+
+
+
+
+.officers div .img.anna {background-image: url(/Website/Images/BOD/Ernie.png);
+background-repeat: no-repeat;}
+
+.officers div .img.dan {background-image: url(/Website/Images/BOD/Cleveland-Brown.png);
+background-repeat: no-repeat;}
+
+.officers div .img.dixter {background-image: url(/Website/Images/BOD/Donna-Tubbs-Brown.png);
+background-repeat: no-repeat;}
+
+.officers div .img.divina {background-image: url(/Website/Images/BOD/Joe-Swanson.png);
+background-repeat: no-repeat;}
+
+.officers div .img.janet {background-image: url(/Website/Images/BOD/Bonnie-Swanson.png);
+background-repeat: no-repeat;}
+
+.officers div .img.robert {background-image: url(/Website/Images/BOD/Glenn-Quagmire.png);
+background-repeat: no-repeat;}
+
+.officers div .img.tigran-bakc {background-image: url(/Website/Images/BOD/Consuela-De-La-Morrela.png);
+background-repeat: no-repeat;}
+.tigran {width: 100% !important;}
+
+
+
+.officers.bord-of-director {margin: 20px 0 0;}
+.officers.bord-of-director h1 {text-transform: capitalize;font-size: 30px;text-align: center;margin: 0 0 30px;}
+.officers.bord-of-director .img {border-color: #6082CB;}
+div#id_1O6wII7 div {padding: 0 !important;}
+.right-btn.get-bton a {display: inline-block;}
+.right-btn.get-bton {width: 100%;text-align: center;margin: 0 auto;float: left;}
+.name p {padding-top: 15px;}
+.officers div .name p a {color: #000 !important;}
+.tigran {margin: 0 !important;}
+.officers div .name p a:hover {color: #fdc018 !important;}
