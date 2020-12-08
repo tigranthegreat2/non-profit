@@ -1,0 +1,40 @@
+.zoneHeader2 {padding: 0;}
+
+
+/* .camera_caption { width: 50%; background: none; right: 70px; left: auto; top: 45px;}
+.banner-content h1 {font-size: 25px;color: #fff !important;font-weight: 500;}
+.banner-content p {font-size: 16px;line-height: 24px; color: #fff;}
+.baner-btn {display: block;margin-top: 45px;}
+.baner-btn a {border: 1px solid #fff; padding: 15px 25px; font-size: 15px; text-transform: uppercase;font-weight: 600;color: #fff !important;}
+
+
+.banner-sec {background: #ce1126;padding: 55px 0;}
+.banner-sec .img-banner {float: left;margin-right: 15px;width: 40%;}
+.banner-sec .baners-content {float: left;width: 52%;}
+.banner-sec .baners-content h1 {color: #fff;font-weight: 500;font-size: 25px;}
+.banner-sec .baners-content p {font-size: 16px;color: #fff;line-height: 24px;}
+ */
+.camera_caption {width: 100%;background: none;right: auto;left: auto;top: 45px;}
+.camera_commands, .camera_next, .camera_prev {
+
+    width: 32px !important;
+    height: 32px !important;
+    margin-top: -23px;
+    background: #db5f69;
+    opacity: 0.9 !important;
+}
+.camera_wrap .camera_next>span:before, .camera_wrap .camera_prev>span:before {
+    position: absolute;
+    top: -8px;
+    left: 0;
+    width: 32px;
+    height: 32px;
+    color: #e1d9d6;
+    font: normal 25px/50px 'WA-theme-icons';
+    text-align: center;
+    font-size: 15px;
+}
+div#camera_wrap_lMlGdJn {
+    margin: 0 !important;
+}
+.camera_thumbs_cont {display: none;}
